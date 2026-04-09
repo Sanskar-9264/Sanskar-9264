@@ -13,10 +13,7 @@
 ![](https://streak-stats.demolab.com?user=Sanskar-9264&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskar-9264&layout=compact&theme=tokyonight)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sanskar-9264&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sanskar-9264&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskar-9264&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sanskar-9264&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
